@@ -16,3 +16,6 @@
 
 [Rede com clustering maior](https://colab.research.google.com/drive/17Ze8jno61Umq5uFbYxtNxlmEXSxH8VAS?usp=sharing)
 
+## Modelos (arquivos .tflite)
+
+Encontrados na pasta [models](./models/src/main/assets/)
